@@ -32,9 +32,10 @@ Basadas en los requisitos del repositorio *App Ideas* y adaptadas para la Guía 
 
 ---
 
-## Metodología de Desarrollo (Fase de Planeación)
+## Metodología de Desarrollo 
 
-** Metodología elegida:** Enfoque Ágil con Kanban Ligero.
+** Metodología elegida:**  
+Enfoque Ágil con Kanban Ligero.
 
 ### Justificación Técnica y Metodológica
 Optamos por un enfoque ágil guiado por un tablero Kanban (gestionado a través de **GitHub Projects**) debido al tiempo reducido de ejecución (2 sesiones / 1 semana) y al tamaño de nuestro equipo (3 integrantes). Dado que la entrega requería iteraciones rápidas e incrementos funcionales constantes, organizar nuestro trabajo en columnas (`To Do`, `In Progress`, `Done`) nos permitió asignar un *Issue* a cada historia de usuario, priorizar las características base (US1 a US5) antes que las avanzadas (US6 y US7) y mantener visibilidad en tiempo real sobre los avances y responsabilidades de cada integrante.
