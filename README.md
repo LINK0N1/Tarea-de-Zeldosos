@@ -33,7 +33,7 @@ Basadas en los requisitos del repositorio *App Ideas* y adaptadas para la Guía 
 
 ## Metodología de Desarrollo 
 
-** Metodología elegida:**  
+* **Metodología elegida:**  
 Enfoque Ágil con Kanban Ligero.
 
 ### Justificación Técnica y Metodológica
