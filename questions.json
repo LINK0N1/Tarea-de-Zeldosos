@@ -1,0 +1,32 @@
+[
+  {
+    "pregunta": "¿Cuál es la capital de Francia?",
+    "opciones": ["Madrid", "Londres", "París", "Berlín"],
+    "respuesta_correcta": "París",
+    "puntos_base": 100
+  },
+  {
+    "pregunta": "¿Qué lenguaje se utiliza principalmente para el desarrollo de inteligencia artificial?",
+    "opciones": ["C++", "Python", "HTML", "PHP"],
+    "respuesta_correcta": "Python",
+    "puntos_base": 100
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes NO es un tipo de datos primitivo en Python?",
+    "opciones": ["int", "float", "array", "str"],
+    "respuesta_correcta": "array",
+    "puntos_base": 100
+  },
+  {
+    "pregunta": "¿Qué palabra clave se usa para definir una función en Python?",
+    "opciones": ["func", "def", "function", "lambda"],
+    "respuesta_correcta": "def",
+    "puntos_base": 100
+  },
+  {
+    "pregunta": "¿Cuál es el planeta más grande del sistema solar?",
+    "opciones": ["Tierra", "Marte", "Júpiter", "Saturno"],
+    "respuesta_correcta": "Júpiter",
+    "puntos_base": 100
+  }
+]
