@@ -2,9 +2,9 @@
 
 ## Integrantes del Equipo
 
-* **Amaury Ali Tristán Córdova** - [@LINK0N1](https://github.com/LINK0N1
+* **Amaury Ali Tristán Córdova** - [@LINK0N1] https://github.com/LINK0N1
 * **Andrea Dalith Zavala Barbosa** - 
-* **Leonardo Rodríguez Flores** - [@RodriguezFloresLeonardo](https://github.com/RodriguezFloresLeonardo
+* **Leonardo Rodríguez Flores** - [@RodriguezFloresLeonardo] https://github.com/RodriguezFloresLeonardo
 
 ---
 (
