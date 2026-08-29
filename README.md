@@ -2,16 +2,16 @@
 
 ## Integrantes del Equipo
 
-* **Amaury Ali Tristán Córdova** - [@AmauryTristan](https://github.com/AmauryTristan)
-* **Pilar** - [@Pilar-Dev](https://github.com/Pilar-Dev)
-* **Dalith** - [@Dalith-Code](https://github.com/Dalith-Code)
+* **Amaury Ali Tristán Córdova** - [@AmauryTristan](https://github.com/LINK0N1
+* **Andrea Dalith Zavala Barbosa** - 
+* **Leonardo Rodríguez Flores** - 
 
 ---
 
-## Descripción y Justificación del Proyecto (Fase de Comunicación)
+## Descripción y Justificación del Proyecto 
 
 ### Descripción
-**Quiz App** es una aplicación de consola desarrollada en Python 3 que permite a los usuarios poner a prueba sus conocimientos a través de un juego de preguntas de opción múltiple. El sistema presenta preguntas secuenciales, brinda retroalimentación inmediata sobre la precisión de las respuestas, incluye un temporizador por pregunta y calcula un puntaje final acumulado al terminar la sesión.
+**Quiz App** es una aplicación de consola desarrollada en Python que permite a los usuarios poner a prueba sus conocimientos a través de un juego de preguntas de opción múltiple. El sistema presenta preguntas secuenciales, brinda retroalimentación inmediata sobre la precisión de las respuestas, incluye un temporizador por pregunta y calcula un puntaje final acumulado al terminar la sesión.
 
 ### Justificación Formal
 El proyecto se seleccionó del banco comunitario *App Ideas* de Florin Pop (Tier 1 / Beginner) para resolver la necesidad de contar con una herramienta educativa interactiva, liviana y accesible desde la terminal que permita evaluar conocimientos de forma rápida y lúdica. Esta elección representa un alcance técnicamente adecuado para el equipo dentro del marco temporal de la Práctica 1, ya que nos permite aplicar y validar de punta a punta las 5 fases del ciclo de vida del software (Comunicación, Planeación, Modelado, Construcción y Cierre) sin sobrepasar el tiempo disponible de desarrollo.
@@ -44,7 +44,7 @@ Optamos por un enfoque ágil guiado por un tablero Kanban (gestionado a través 
 ##Estructura del Proyecto y Tecnologías
 
 ### Tecnologías Utilizadas
-* **Lenguaje:** Python 3.x (uso de librerías estándar: `json`, `time`, `random`, `os`).
+* **Lenguaje:** Python (uso de librerías estándar: `json`, `time`, `random`, `os`).
 * **Control de Versiones y CASE:** Git, GitHub (Repositorio, Issues y GitHub Projects).
 * **Modelado:** Draw.io / diagrams.net.
 
