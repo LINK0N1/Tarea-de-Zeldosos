@@ -7,7 +7,6 @@
 * **Leonardo Rodríguez Flores** - [@RodriguezFloresLeonardo] https://github.com/RodriguezFloresLeonardo
 
 ---
-(
 ## Descripción y Justificación del Proyecto 
 
 ### Descripción
