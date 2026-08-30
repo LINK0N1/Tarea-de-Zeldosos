@@ -52,13 +52,12 @@ Optamos por un enfoque ágil guiado por un tablero Kanban (gestionado a través 
 ```text
 quiz-app-python/
 │
-├── docs/
-│   └── diagram_architecture.png   # Diagrama de flujo del sistema (Fase de Modelado)
-├── main.py                         # Código fuente principal del juego
-├── questions.json                  # Banco de preguntas y respuestas en formato JSON
-├── .gitignore                      # Archivos ignorados por Git
-├── LICENSE                         # Licencia MIT
+├── Quizz/
+│   └── main.py                     # Código fuente principal del juego
+│   └── questions.json              # Banco de preguntas y respuestas en formato JSON
 ├── README.md                       # Documentación principal del proyecto
+├── diagram_architecture.png        # Diagrama de flujo del sistema (Fase de Modelado)
+├── GH.drawio.png                   # Diagrama de bloques del sistema
 └── RETROSPECTIVA.md                # Informe de cierre y reflexión del equipo
 ```
 ---
