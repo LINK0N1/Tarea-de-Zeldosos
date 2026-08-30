@@ -15,7 +15,7 @@
 ### Justificación Formal
 El proyecto se seleccionó del banco comunitario *App Ideas* de Florin Pop (Tier 1 / Beginner) para resolver la necesidad de contar con una herramienta educativa interactiva, liviana y accesible desde la terminal que permita evaluar conocimientos de forma rápida y lúdica. Esta elección representa un alcance técnicamente adecuado para el equipo dentro del marco temporal de la Práctica 1, ya que nos permite aplicar y validar de punta a punta las 5 fases del ciclo de vida del software (Comunicación, Planeación, Modelado, Construcción y Cierre) sin sobrepasar el tiempo disponible de desarrollo.
 
----
+----
 
 ## Historias de Usuario
 
