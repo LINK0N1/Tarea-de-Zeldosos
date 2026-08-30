@@ -4,7 +4,6 @@
 
 * **Amaury Ali Tristán Córdova** - [@LINK0N1] https://github.com/LINK0N1
 * **Andrea Dalith Zavala Barbosa** - [@AndreaZ75] https://github.com/AndreaZ75
-* 
 * **Leonardo Rodríguez Flores** - [@RodriguezFloresLeonardo] https://github.com/RodriguezFloresLeonardo
 
 ---
