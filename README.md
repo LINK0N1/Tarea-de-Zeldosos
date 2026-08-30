@@ -26,7 +26,7 @@ Basadas en los requisitos del repositorio *App Ideas* y adaptadas para la Guía 
 * **US3 (Base):** *Como usuario*, quiero que el sistema avance automáticamente a la siguiente pregunta tras responder *para* tener una experiencia de juego fluida.
 * **US4 (Base):** *Como usuario*, quiero ver mi puntaje total al finalizar la sesión *para* evaluar mi desempeño general.
 * **US5 (Base):** *Como usuario*, quiero poder reiniciar la partida o salir del programa al terminar *para* volver a jugar si lo deseo.
-* **US7 (Bonus - Temporizador):** *Como usuario*, quiero contar con un temporizador por pregunta *para* añadir un nivel adicional de reto al juego.
+* **US6 (Bonus - Temporizador):** *Como usuario*, quiero contar con un temporizador por pregunta *para* añadir un nivel adicional de reto al juego.
 
 ---
 
